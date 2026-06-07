@@ -45,11 +45,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ChromuSx&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChromuSx&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages">
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=ChromuSx&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
 </div>
 
