@@ -29,6 +29,15 @@
 
 ---
 
+## 🔭 Currently Building
+
+- 📺 [DrowseOff](https://github.com/ChromuSx/DrowseOff) — DIY ESP32 TV sleep monitor with a local dashboard
+- 🔐 [SecurePress](https://github.com/ChromuSx/SecurePress) — Stream Deck plugin with Windows Hello biometric authentication
+- 🎧 [BluetoothDeviceConnector](https://github.com/ChromuSx/BluetoothDeviceConnector) — one-click Bluetooth switching on Windows
+- 🤖 AI-powered browser extensions, automation workflows, and full-stack utilities
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | Description | Stars |
@@ -71,17 +80,35 @@
 
 ---
 
-## 🐍 Contribution Snake
+## ⚡ Recent Activity
+
+<details>
+  <summary><strong>Latest public GitHub activity</strong></summary>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+---
+
+<details>
+  <summary><strong>🐍 Contribution Snake</strong></summary>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ChromuSx/ChromuSx/output/github-snake-dark.svg" alt="Contribution Snake">
 </div>
 
-## 🌆 3D Contribution Calendar
+</details>
+
+<details>
+  <summary><strong>🌆 3D Contribution Calendar</strong></summary>
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Calendar">
 </div>
+
+</details>
 
 ---
 
