@@ -33,12 +33,25 @@
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [🎧 BluetoothDeviceConnector](https://github.com/ChromuSx/BluetoothDeviceConnector) | Connect Bluetooth devices on Windows with one click — AHK script + Elgato Stream Deck plugin | ⭐ 13 |
-| [🚌 cotral](https://github.com/ChromuSx/cotral) | Telegram & Discord bot + REST API for Cotral public transport in Lazio, Italy | ⭐ 6 |
-| [🎬 MediaButler](https://github.com/ChromuSx/MediaButler) | Smart Telegram bot that downloads and auto-organizes your media library — Docker ready | ⭐ 3 |
-| [⏭️ SkipTubeAI](https://github.com/ChromuSx/SkipTubeAI) | Chrome extension that auto-skips sponsors and intros on YouTube using Claude AI / OpenAI | ⭐ 1 |
-| [📝 RecapTubeAI](https://github.com/ChromuSx/RecapTubeAI) | Chrome extension that summarizes YouTube videos and auto-generates chapters using AI | ⭐ 1 |
-| [🔐 SecurePress](https://github.com/ChromuSx/SecurePress) | Stream Deck plugin with Windows Hello biometric authentication | ⭐ 1 |
+| [🎧 BluetoothDeviceConnector](https://github.com/ChromuSx/BluetoothDeviceConnector) | Connect Bluetooth devices on Windows with one click — AHK script + Elgato Stream Deck plugin | [![Stars][stars-bluetooth-device-connector]][stars-bluetooth-device-connector-url] |
+| [🚌 cotral](https://github.com/ChromuSx/cotral) | Telegram & Discord bot + REST API for Cotral public transport in Lazio, Italy | [![Stars][stars-cotral]][stars-cotral-url] |
+| [🎬 MediaButler](https://github.com/ChromuSx/MediaButler) | Smart Telegram bot that downloads and auto-organizes your media library — Docker ready | [![Stars][stars-media-butler]][stars-media-butler-url] |
+| [⏭️ SkipTubeAI](https://github.com/ChromuSx/SkipTubeAI) | Chrome extension that auto-skips sponsors and intros on YouTube using Claude AI / OpenAI | [![Stars][stars-skip-tube-ai]][stars-skip-tube-ai-url] |
+| [📝 RecapTubeAI](https://github.com/ChromuSx/RecapTubeAI) | Chrome extension that summarizes YouTube videos and auto-generates chapters using AI | [![Stars][stars-recap-tube-ai]][stars-recap-tube-ai-url] |
+| [🔐 SecurePress](https://github.com/ChromuSx/SecurePress) | Stream Deck plugin with Windows Hello biometric authentication | [![Stars][stars-secure-press]][stars-secure-press-url] |
+
+[stars-bluetooth-device-connector]: https://img.shields.io/github/stars/ChromuSx/BluetoothDeviceConnector?style=flat-square&label=stars
+[stars-bluetooth-device-connector-url]: https://github.com/ChromuSx/BluetoothDeviceConnector/stargazers
+[stars-cotral]: https://img.shields.io/github/stars/ChromuSx/cotral?style=flat-square&label=stars
+[stars-cotral-url]: https://github.com/ChromuSx/cotral/stargazers
+[stars-media-butler]: https://img.shields.io/github/stars/ChromuSx/MediaButler?style=flat-square&label=stars
+[stars-media-butler-url]: https://github.com/ChromuSx/MediaButler/stargazers
+[stars-skip-tube-ai]: https://img.shields.io/github/stars/ChromuSx/SkipTubeAI?style=flat-square&label=stars
+[stars-skip-tube-ai-url]: https://github.com/ChromuSx/SkipTubeAI/stargazers
+[stars-recap-tube-ai]: https://img.shields.io/github/stars/ChromuSx/RecapTubeAI?style=flat-square&label=stars
+[stars-recap-tube-ai-url]: https://github.com/ChromuSx/RecapTubeAI/stargazers
+[stars-secure-press]: https://img.shields.io/github/stars/ChromuSx/SecurePress?style=flat-square&label=stars
+[stars-secure-press-url]: https://github.com/ChromuSx/SecurePress/stargazers
 
 ---
 
