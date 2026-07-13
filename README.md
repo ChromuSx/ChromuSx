@@ -86,7 +86,7 @@
   <summary><strong>Latest public GitHub activity</strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.5.0 — Device Picker, Speaker Support & Live State](https://github.com/ChromuSx/BluetoothDeviceConnector/releases/tag/v1.0.5.0) in [ChromuSx/BluetoothDeviceConnector](https://github.com/ChromuSx/BluetoothDeviceConnector)
+1. 🚀 Published release [Bluetooth Device Connector 1.1.0 Beta 2](https://github.com/ChromuSx/BluetoothDeviceConnector/releases/tag/v1.1.0-beta.2) in [ChromuSx/BluetoothDeviceConnector](https://github.com/ChromuSx/BluetoothDeviceConnector)
 <!--END_SECTION:activity-->
 
 </details>
