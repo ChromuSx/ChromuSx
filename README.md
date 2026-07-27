@@ -86,7 +86,7 @@
   <summary><strong>Latest public GitHub activity</strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Bluetooth Device Connector 1.1.0 Beta 2](https://github.com/ChromuSx/BluetoothDeviceConnector/releases/tag/v1.1.0-beta.2) in [ChromuSx/BluetoothDeviceConnector](https://github.com/ChromuSx/BluetoothDeviceConnector)
+1. 💪 Opened PR [#4](https://github.com/ChromuSx/chromus-skills/pull/4) in [ChromuSx/chromus-skills](https://github.com/ChromuSx/chromus-skills)
 <!--END_SECTION:activity-->
 
 </details>
