@@ -86,7 +86,7 @@
   <summary><strong>Latest public GitHub activity</strong></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/ChromuSx/chromus-skills/pull/4) in [ChromuSx/chromus-skills](https://github.com/ChromuSx/chromus-skills)
+1. 🎉 Merged PR [#4](https://github.com/ChromuSx/chromus-skills/pull/4) in [ChromuSx/chromus-skills](https://github.com/ChromuSx/chromus-skills)
 <!--END_SECTION:activity-->
 
 </details>
