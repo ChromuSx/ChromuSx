@@ -86,7 +86,7 @@
   <summary><strong>Latest public GitHub activity</strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/ChromuSx/BluetoothDeviceConnector/issues/3#issuecomment-5207313646) in [ChromuSx/BluetoothDeviceConnector](https://github.com/ChromuSx/BluetoothDeviceConnector)
+1. 🗣 Commented on [#4](https://github.com/ChromuSx/BluetoothDeviceConnector/issues/4#issuecomment-5298211027) in [ChromuSx/BluetoothDeviceConnector](https://github.com/ChromuSx/BluetoothDeviceConnector)
 <!--END_SECTION:activity-->
 
 </details>
