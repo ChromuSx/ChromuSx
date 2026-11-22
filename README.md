@@ -86,7 +86,7 @@
   <summary><strong>Latest public GitHub activity</strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/ChromuSx/BluetoothDeviceConnector/issues/4#issuecomment-5442125071) in [ChromuSx/BluetoothDeviceConnector](https://github.com/ChromuSx/BluetoothDeviceConnector)
+1. 🚀 Published release [Jellyfin rclone Prefetch v0.1.0-beta.2](https://github.com/ChromuSx/jellyfin-rclone-prefetch/releases/tag/v0.1.0-beta.2) in [ChromuSx/jellyfin-rclone-prefetch](https://github.com/ChromuSx/jellyfin-rclone-prefetch)
 <!--END_SECTION:activity-->
 
 </details>
